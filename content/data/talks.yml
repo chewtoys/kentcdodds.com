@@ -1,9 +1,18 @@
+- title: CascadiaJS 2025 Talk
+  deliveries:
+    - event: '[CascadiaJS](https://cascadiajs.com/2025)'
+      date: 2025-09-17
+  tags:
+    - ai
+  description: >-
+    To be announced.
+
 - title: Code Europe 2025 Talk
   deliveries:
     - event: '[Code Europe](https://www.codeeurope.pl/en/)'
       date: 2025-06-30
   tags:
-    - react
+    - ai
   description: >-
     To be announced.
 
@@ -11,8 +20,7 @@
   deliveries:
     - event: '[Devoxx Greece](https://devoxx.gr/)'
       date: 2025-04-11
-    - event: '[CityJS London](https://london.cityjsconf.org/)'
-      date: 2025-04-23
+      recording: https://www.youtube.com/watch?v=3pxnV8RpUyk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
   tags:
     - principles
     - life
@@ -32,21 +40,26 @@
     inspired to not only consider the principles shared but also craft their own
     to guide their personal or team development processes.
 
-- title: RenderATL 2025 Talk
+- title: Letting AI Interface with Your App with MCPs
   deliveries:
-    - event: '[Render ATL](https://www.renderatl.com/)'
-      date: 2025-06-11
-  tags:
-    - react
-  description: >-
-    To be announced.
-
-- title: The new "App Store"
-  deliveries:
+    - event:
+        '[Special Recording on
+        EpicAI.pro](https://www.epicai.pro/letting-ai-interface-with-your-app-with-mcps-talk)'
+      date: 2025-04-18
+      recording: https://www.epicai.pro/letting-ai-interface-with-your-app-with-mcps-talk
     - event:
         '[GreeceJS Meetup
         #52](https://www.meetup.com/greecejs/events/307030808/)'
       date: 2025-04-09
+    - event: '[Devoxx Greece](https://devoxx.gr/)'
+      date: 2025-04-11
+      recording: https://www.youtube.com/watch?v=7l9cMhQndiY&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+    - event: '[CityJS London](https://london.cityjsconf.org/)'
+      date: 2025-04-23
+    - event: '[Render ATL](https://www.renderatl.com/)'
+      date: 2025-06-11
+    - event: '[UtahJS Conf](https://utahjs.com/conference)'
+      date: 2025-09-12
   tags:
     - mcp
     - ai
