@@ -1,25 +1,60 @@
+- title: CascadiaJS 2025 Talk
+  deliveries:
+    - event: '[CascadiaJS](https://cascadiajs.com/2025)'
+      date: 2025-09-17
+  tags:
+    - ai
+  description: >-
+    To be announced.
+
 - title: Code Europe 2025 Talk
   deliveries:
     - event: '[Code Europe](https://www.codeeurope.pl/en/)'
       date: 2025-06-30
   tags:
-    - react
+    - ai
   description: >-
     To be announced.
+
+- title: "Please Make Jarvis (so I don't have to)"
+  deliveries:
+    - event: '[MCP Developers Summit](https://lu.ma/mcpdevsummit2025)'
+      date: 2025-05-23
+  tags:
+    - mcp
+    - ai
+    - agent
+  description: >-
+    The dream of a seamless AI assistant like Tony Stark's Jarvis – capable of
+    understanding intent and accomplishing tasks across any service, anywhere –
+    is closer than ever, but key infrastructure is missing. While the Model
+    Context Protocol (MCP) provides a crucial foundation for standardized
+    agent-service communication, replacing websites with MCP services, it
+    introduces a critical challenge: tool overloading. How can an AI agent
+    effectively choose the right service when faced with potentially millions of
+    options?
+
+
+    This talk outlines the requirements for building a true "Jarvis." We need a
+    "Google for MCPs"—an intelligent discovery and ranking engine that leverages
+    not just service descriptions, but user history, task success rates, and
+    deep personalization to overcome tool overload and connect users' intentions
+    to the right MCP service. Join this session to explore the architecture
+    required for this future and understand the call to action: let's build the
+    necessary infrastructure to make Jarvis a reality.
 
 - title: Principles-Based Programming
   deliveries:
     - event: '[Devoxx Greece](https://devoxx.gr/)'
       date: 2025-04-11
-    - event: '[CityJS London](https://london.cityjsconf.org/)'
-      date: 2025-04-23
+      recording: https://www.youtube.com/watch?v=3pxnV8RpUyk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
   tags:
     - principles
     - life
     - career
   description: >-
     Programming is often thought of as a purely technical endeavor—writing code
-    to solve specific problems. But what if there’s a deeper, more meaningful
+    to solve specific problems. But what if there's a deeper, more meaningful
     way to approach it? Principles-Based Programming explores the foundational
     philosophies that guide our decisions as developers. Using The Epic
     Programming Principles as a starting point, this talk dives into what
@@ -28,25 +63,46 @@
 
 
     Attendees will leave with an understanding of how principles provide a
-    compass for navigating the complexities of software development. They’ll be
+    compass for navigating the complexities of software development. They'll be
     inspired to not only consider the principles shared but also craft their own
     to guide their personal or team development processes.
 
-- title: RenderATL 2025 Talk
+- title: How to Debug Your MCP Server
   deliveries:
-    - event: '[Render ATL](https://www.renderatl.com/)'
-      date: 2025-06-11
+    - event: 'Pre-Render (meetup before Render ATL)'
+      date: 2025-06-10
   tags:
-    - react
+    - mcp
+    - ai
+    - debugging
   description: >-
-    To be announced.
+    Building an MCP (Model Context Protocol) server is just the beginning.
+    Making sure it works as expected is where the real challenge begins! In this
+    talk, we'll walk through practical steps for debugging your own MCP server
+    in a variety of contexts (MCP Inspector, Cursor, Claude, etc).
 
-- title: The new "App Store"
+- title: Letting AI Interface with Your App with MCPs
   deliveries:
+    - event:
+        '[Special Recording on
+        EpicAI.pro](https://www.epicai.pro/letting-ai-interface-with-your-app-with-mcps-talk)'
+      date: 2025-04-18
+      recording: https://www.epicai.pro/letting-ai-interface-with-your-app-with-mcps-talk
     - event:
         '[GreeceJS Meetup
         #52](https://www.meetup.com/greecejs/events/307030808/)'
       date: 2025-04-09
+    - event: '[Devoxx Greece](https://devoxx.gr/)'
+      date: 2025-04-11
+      recording: https://www.youtube.com/watch?v=7l9cMhQndiY&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
+    - event: '[CityJS London](https://london.cityjsconf.org/)'
+      date: 2025-04-23
+    - event: '[Frontend Nation](https://frontendnation.com/)'
+      date: 2025-06-03
+    - event: '[Render ATL](https://www.renderatl.com/)'
+      date: 2025-06-11
+    - event: '[UtahJS Conf](https://utahjs.com/conference)'
+      date: 2025-09-12
   tags:
     - mcp
     - ai
@@ -142,6 +198,7 @@
       recording: https://www.youtube.com/watch?v=E8LLty9rTWw&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
     - event: '[React India](https://www.reactindia.io/)'
       date: 2024-10-18
+      recording: https://www.youtube.com/watch?v=q4cF-ftxpbk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf
     - event: '[React Summit US 2024](https://reactsummit.us/)'
       date: 2024-11-20
     - event: '[React Paris](https://react.paris/)'
